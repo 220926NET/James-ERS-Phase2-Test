@@ -38,7 +38,7 @@ jobs:
           dotnet tool update dotnet-sonarscanner --tool-path .\.sonar\scanner
           
 #running dotnet test
-- name: Test
+  name: Test
 run: dotnet test --no-build --verbosity normal ${{env.WORKING_DIRECTORY}} --collect:"XPlat Code Coverage" --logger trx -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=opencover
 
           
