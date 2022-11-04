@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj",
+      "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\obj\\",
+      "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\ERS\\ERS.csproj": {}
+    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\ERS\\ERS.csproj": {}
   },
   "projects": {
-    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\DataAccess.csproj"
+              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj": {
-                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj"
+              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj": {
+                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\DataAccess.csproj": {
+    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\obj\\",
+        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj": {
-                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj"
+              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj": {
+                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj"
               }
             }
           }
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\ERS\\ERS.csproj": {
+    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\ERS\\ERS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\ERS\\ERS.csproj",
+        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\ERS\\ERS.csproj",
         "projectName": "ERS",
-        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\ERS\\ERS.csproj",
+        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\ERS\\ERS.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\ERS\\obj\\",
+        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\ERS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,14 +161,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\BusinessLayer\\BusinessLayer.csproj"
+              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\DataAccess\\DataAccess.csproj"
+              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj": {
-                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj"
+              "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj": {
+                "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj": {
+    "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\Models.csproj",
+        "projectPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\Models\\obj\\",
+        "outputPath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NRi9moLfuUjVofpm86GhNvthJ/uWnruewUP6FczC65fR3kOMthDAAYhyDbLCPiiAVKrwx6sQSWhprOpaJcrgZA==",
+  "dgSpecHash": "VwPoLFuXFzTKm2optkgzR4HbXs3WtObLIPrmDaq7D380ZsZdfrAZGAV8eXnoZR98MrZbwUH/7L3CFEIcAQhfAw==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\ERS\\ERS\\ERS.csproj",
+  "projectFilePath": "C:\\Revature\\code\\JamesMC-P1 - Phase 2\\James-ERS-Phase2-Test\\ERS\\ERS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\James\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
