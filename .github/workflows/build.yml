@@ -5,6 +5,8 @@ on:
       - main
   pull_request:
     types: [opened, synchronize, reopened]
+  #This will allow you to manually trigger
+  workflow_dispatch:
 jobs:
   build:
     name: Build and analyze
